@@ -1,0 +1,7 @@
+node_modules/
+kredikarti/
+kayitlar/
+*.swp
+yarn-error.log
+.vscode
+__pycache__/
